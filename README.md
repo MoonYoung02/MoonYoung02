@@ -25,7 +25,7 @@ Passionate and interested in various fields <br>
 ## Opensource Contributions
 |Opensource|My Contribution|
 |----------|---------------|
-|<img src="https://raw.githubusercontent.com/kubernetes/kubernetes/master/logo/logo.svg" width="20"/> Kubernetes |[Switch kube-proxy/server.go to context-aware logging APIs (HandleErrorWithContext, UntilWithContext) #135092](https://github.com/kubernetes/kubernetes/pull/135092)
+|<img src="https://raw.githubusercontent.com/kubernetes/kubernetes/master/logo/logo.svg" width="20"/> Kubernetes |[Switch kube-proxy/server.go to context-aware logging APIs](https://github.com/kubernetes/kubernetes/pull/135092)
 
 </div>
 
