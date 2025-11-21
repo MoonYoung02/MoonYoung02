@@ -33,4 +33,8 @@ Passionate and interested in various fields <br>
 <div align=center>
 <a href="mailto:happy518596@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:happy518596@gmail.com"/></a>
 <a href="https://www.linkedin.com/in/%EB%AC%B8%EC%98%81-%EC%9D%B4-799668318/" target="_blank"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=Velog&logoColor=white"></a>
+  <p> <img src="https://komarev.com/ghpvc/?username=MoonYoung02&label=Profile%20views&base=0&abbreviated=true&color=252da1&style=for-the-badge" alt="MoonYoung02" /> </p>
 </div>
+
+
+
