@@ -10,7 +10,7 @@ Passionate and interested in various fields <br>
 - Develop Service which solving problem
 - Computer Science, most intrested in O/S & Network
 - Container, Linux Virtualization, Kubernetes, Openstack
-- AI Agents & RAG Systems
+- AI Agents & RAG Systems & Document Parser
 - Web3, Dapp
 
 ## What I Do / Did
