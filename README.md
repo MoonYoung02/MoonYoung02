@@ -17,7 +17,7 @@ Passionate and interested in various fields <br>
 | Activity | Description | Role | My Activity | Period |
 |-----------|--------------|------|--------------|---------|
 | **OSSCA** | Open Source Software Contribution Academy | OpenStack SDK Mentee | Tried contributing to the OpenStack SDK Python client | 2025.04.14 ~ 2025.05.27 |
-| **Cloud Club** | An IT alliance and community for people passionate about cloud-native technologies | 8th Member | Participating in a Kubernetes study group | 2025.09 ~ Present |
+| [**Cloud Club**](https://www.cloudclub.kr/activities/)| An IT alliance and community for people passionate about cloud-native technologies | 8th Member | Participating in a Kubernetes study group | 2025.09 ~ Present |
 
 
 <div>
