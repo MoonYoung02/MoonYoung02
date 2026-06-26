@@ -18,7 +18,7 @@ Passionate and interested in various fields <br>
 |-----------|--------------|------|--------------|---------|
 | **OSSCA** | Open Source Software Contribution Academy | OpenStack SDK Mentee | Tried contributing to the OpenStack SDK Python client | 2025.04.14 ~ 2025.05.27 |
 | [**Cloud Club**](https://www.cloudclub.kr/activities/)| An IT alliance and community for people passionate about cloud-native technologies | 8th Member | Participating in a Kubernetes study group | 2025.09 ~ Present |
-|Kakao Tech Campus| Agentic AI course for AI service development | 4th student | Study Web Full Stack Developement & Agent | 2026.05 ~ present | 
+|Kakao Tech Campus| Agentic AI course for AI service development | 4th student | Study Web Full Stack Developement & AI Agent | 2026.05 ~ present | 
 
 
 <div>
