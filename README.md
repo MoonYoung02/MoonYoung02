@@ -20,6 +20,11 @@ Passionate and interested in various fields <br>
 | [**Cloud Club**](https://www.cloudclub.kr/activities/)| An IT alliance and community for people passionate about cloud-native technologies | 8th Member | Participating in a Kubernetes study group | 2025.09 ~ Present |
 |Kakao Tech Campus| Agentic AI course for AI service development | 4th student | Study Web Full Stack Developement & AI Agent | 2026.05 ~ present | 
 
+## Projects
+| Activity          | Description                                                                                                          | Role                        | My Activity                                                                                     | Period            |
+| ----------------- | -------------------------------------------------------------------------------------------------------------------- | --------------------------- | ----------------------------------------------------------------------------------------------- | ----------------- |
+| [**PPTX2Markdown**](https://github.com/PPTX2Markdown/PPTX2Markdown) | Industry–academia collaboration project for converting PPTX files into structure-preserving Markdown for RAG systems | Core Developer & Researcher | Developed an OOXML-based PPTX parser for tables, formula, images, headings, and reading order | 2026.02 ~ 2026.06 |
+
 
 <div>
   
